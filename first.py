@@ -1,1 +1,2 @@
-print('My first python code!')
+name = input("what is your name? ")
+print(len(name), name)
